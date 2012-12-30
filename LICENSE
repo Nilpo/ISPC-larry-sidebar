@@ -1,10 +1,9 @@
 /*
  +--------------------------------------------------------------------------+
- | ISPC-larry-sidebar :: Sidebar module for ISPC-larry theme                |
- | for ISPConfig 3.x                                                        |
+ | ISPC-larry-sidebar :: Sidebar module for ISPC-larry                      |
  +--------------------------------------------------------------------------+  
  |                                                                          |                         
- | https://github.com/foe-services/ispc-larry-sidebar                       |
+ | https://github.com/Foe-Services-Labs/ISPC-larry-sidebar                  |
  | Version information can be found in the README.md file                   |
  |                                                                          |
  | The design is subject to the                                             |
